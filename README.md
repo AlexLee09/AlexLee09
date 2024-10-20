@@ -26,4 +26,4 @@
   <a href="https://github.com/AlexLee09"><img title="Alex's Contribution Graph" alt="Alex's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AlexLee09" /></a>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,ts,js,nextjs,mongodb,py,flask,aws,html,css,gatsby,react,tailwind,unity,cs,github,d3,dynamodb,java,raspberrypi,postman,firebase,postgres,sequelize,sqlite,tensorflow,vscode,ai,ps,eclipse,cpp&perline=16)](https://github.com/antoinekllee)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,ts,js,nextjs,mongodb,py,,aws,html,css,react,tailwind,github,tensorflow,vscode,ai,ps,cpp&perline=16)](https://github.com/antoinekllee)
